@@ -1,0 +1,14 @@
+{
+    "name": "frontend",
+    "version": "1.0.0",
+    "description": "Simple frontend for microservices demo",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "axios": "^0.27.2",
+      "express": "^4.17.1"
+    }
+  }
+  
